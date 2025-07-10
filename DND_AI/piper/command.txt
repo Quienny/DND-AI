@@ -1,0 +1,2 @@
+mkdir C:\PiperOutput
+.\piper.exe --model voices\en_US\en_US-amy-medium.onnx --config voices\en_US\en_US-amy-medium.onnx.json --output_file "C:\PiperOutput\test.wav" --text "Output redirected to test WAV."

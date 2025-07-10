@@ -1,0 +1,428 @@
+[2025-07-09 21:01:04] 🟢 Whisper typing (Caps Lock hold) started. Hold Caps Lock to speak, release to transcribe and type. Press ESC to quit.
+[2025-07-09 21:01:11] Started recording...
+[2025-07-09 21:01:22] Stopped recording. Collected 157 audio chunks.
+[2025-07-09 21:01:22] Transcribing...
+[2025-07-09 21:01:22] ⏳ Whisper.transcribe() started.
+[2025-07-09 21:01:24] ✅ Whisper.transcribe() completed.
+[2025-07-09 21:01:24] Transcribed: Grab my sword, I walk over to the goblin, I try to strike its head and I run behind a rock.
+[2025-07-09 21:01:29] Typed: Grab my sword, I walk over to the goblin, I try to strike its head and I run behind a rock.
+[2025-07-09 21:01:43] Started recording...
+[2025-07-09 21:01:58] Stopped recording. Collected 220 audio chunks.
+[2025-07-09 21:01:58] Transcribing...
+[2025-07-09 21:01:58] ⏳ Whisper.transcribe() started.
+[2025-07-09 21:01:59] ✅ Whisper.transcribe() completed.
+[2025-07-09 21:01:59] Transcribed: I cast Eldritch Blast. I throw my dagger at the goblin. I run behind a rock and I play with some string and then I jump over the rock to try to attack again.
+[2025-07-09 21:02:08] Typed: I cast Eldritch Blast. I throw my dagger at the goblin. I run behind a rock and I play with some string and then I jump over the rock to try to attack again.
+[2025-07-09 21:03:07] 🟢 Whisper typing (Caps Lock hold) started. Hold Caps Lock to speak, release to transcribe and type. Press ESC to quit.
+[2025-07-09 21:03:09] Started recording...
+[2025-07-09 21:03:23] Stopped recording. Collected 219 audio chunks.
+[2025-07-09 21:03:23] Transcribing...
+[2025-07-09 21:03:23] ⏳ Whisper.transcribe() started.
+[2025-07-09 21:03:25] ✅ Whisper.transcribe() completed.
+[2025-07-09 21:03:25] Transcribed: I try to strike its head and run behind a rock. I cast Eldorage Blast, I throw my dagger at the goblin, I run behind a rock and I play with some string and then I jump over the rock and try to attack again.
+[2025-07-09 21:03:32] Typed: I try to strike its head and run behind a rock. I cast Eldorage Blast, I throw my dagger at the goblin, I run behind a rock and I play with some string and then I jump over the rock and try to attack again.
+[2025-07-09 21:03:35] Started recording...
+[2025-07-09 21:03:36] Stopped recording. Collected 0 audio chunks.
+[2025-07-09 21:03:36] ⚠️ Main loop error: No audio recorded.
+[2025-07-09 21:05:19] 🟢 Whisper typing (Caps Lock hold) started. Hold Caps Lock to speak, release to transcribe and paste. Press ESC to quit.
+[2025-07-09 21:05:23] Started recording...
+[2025-07-09 21:05:35] Stopped recording. Collected 170 audio chunks.
+[2025-07-09 21:05:35] Transcribing...
+[2025-07-09 21:05:35] ⏳ Whisper.transcribe() started.
+[2025-07-09 21:05:37] ✅ Whisper.transcribe() completed.
+[2025-07-09 21:05:37] Transcribed: I walk over to the goblin and I try to communicate with it by placing a pebble in its hand and gazing deep into its eyes to understand its pain of its upbringing.
+[2025-07-09 21:05:37] Pasted: I walk over to the goblin and I try to communicate with it by placing a pebble in its hand and gazing deep into its eyes to understand its pain of its upbringing.
+[2025-07-09 21:07:46] 🟢 Whisper typing (Caps Lock hold) started. Hold Caps Lock to speak, release to transcribe and paste. Press ESC to quit.
+[2025-07-09 21:11:20] 🟢 Whisper typing (Caps Lock hold) started. Hold Caps Lock to speak, release to transcribe and paste. Press ESC to quit.
+[2025-07-09 21:12:13] 🟢 Whisper typing (Caps Lock hold) started. Hold Caps Lock to speak, release to transcribe and paste. Press ESC to quit.
+[2025-07-09 21:12:18] Started recording...
+[2025-07-09 21:12:21] Stopped recording. Collected 27 audio chunks.
+[2025-07-09 21:12:21] Transcribing...
+[2025-07-09 21:12:21] ⏳ Whisper.transcribe() started.
+[2025-07-09 21:12:21] Stopped recording. Collected 27 audio chunks.
+[2025-07-09 21:12:21] Transcribing...
+[2025-07-09 21:12:21] ⏳ Whisper.transcribe() started.
+[2025-07-09 21:12:23] ✅ Whisper.transcribe() completed.
+[2025-07-09 21:12:23] Transcribed: This is a test.
+[2025-07-09 21:12:23] ✅ Whisper.transcribe() completed.
+[2025-07-09 21:12:23] Transcribed: This is a test.
+[2025-07-09 21:12:23] Pasted: This is a test.
+[2025-07-09 21:12:23] Pasted: This is a test.
+[2025-07-09 21:12:29] Started recording...
+[2025-07-09 21:12:29] Stopped recording. Collected 0 audio chunks.
+[2025-07-09 21:12:29] ⚠️ Main loop error: No audio recorded.
+[2025-07-09 21:12:29] Stopped recording. Collected 0 audio chunks.
+[2025-07-09 21:12:29] ⚠️ Main loop error: No audio recorded.
+[2025-07-09 21:12:30] Started recording...
+[2025-07-09 21:12:30] Started recording...
+[2025-07-09 21:12:32] Stopped recording. Collected 23 audio chunks.
+[2025-07-09 21:12:32] Transcribing...
+[2025-07-09 21:12:32] ⏳ Whisper.transcribe() started.
+[2025-07-09 21:12:32] Stopped recording. Collected 23 audio chunks.
+[2025-07-09 21:12:32] Transcribing...
+[2025-07-09 21:12:32] ⏳ Whisper.transcribe() started.
+[2025-07-09 21:12:33] ✅ Whisper.transcribe() completed.
+[2025-07-09 21:12:33] Transcribed: My fault, sorry.
+[2025-07-09 21:12:33] ✅ Whisper.transcribe() completed.
+[2025-07-09 21:12:33] Transcribed: My fault, sorry.
+[2025-07-09 21:12:33] Pasted: My fault, sorry.
+[2025-07-09 21:12:33] Pasted: My fault, sorry.
+[2025-07-09 21:12:35] Started recording...
+[2025-07-09 21:12:35] Stopped recording. Collected 0 audio chunks.
+[2025-07-09 21:12:35] ⚠️ Main loop error: No audio recorded.
+[2025-07-09 21:12:35] Stopped recording. Collected 0 audio chunks.
+[2025-07-09 21:12:35] ⚠️ Main loop error: No audio recorded.
+[2025-07-09 21:15:13] 🟢 Whisper typing (Caps Lock hold) started. Hold Caps Lock to speak, release to transcribe and paste. Press ESC to quit.
+[2025-07-09 21:15:16] Started recording...
+[2025-07-09 21:15:18] Stopped recording. Collected 34 audio chunks.
+[2025-07-09 21:15:18] Transcribing...
+[2025-07-09 21:15:18] ⏳ Whisper.transcribe() started.
+[2025-07-09 21:15:20] ✅ Whisper.transcribe() completed.
+[2025-07-09 21:15:20] Transcribed: Thank you, hopefully this works.
+[2025-07-09 21:15:20] Pasted: Thank you, hopefully this works.
+[2025-07-09 21:15:22] 🛑 ESC key pressed — exiting.
+[2025-07-09 21:15:52] 🟢 Whisper typing (Caps Lock hold) started. Hold Caps Lock to speak, release to transcribe and paste. Press ESC to quit.
+[2025-07-09 21:16:00] Started recording...
+[2025-07-09 21:16:02] Stopped recording. Collected 21 audio chunks.
+[2025-07-09 21:16:02] Transcribing...
+[2025-07-09 21:16:02] ⏳ Whisper.transcribe() started.
+[2025-07-09 21:16:04] ✅ Whisper.transcribe() completed.
+[2025-07-09 21:16:04] Transcribed: The test.
+[2025-07-09 21:16:04] Pasted: The test.
+[2025-07-09 21:16:07] Started recording...
+[2025-07-09 21:16:10] Stopped recording. Collected 43 audio chunks.
+[2025-07-09 21:16:10] Transcribing...
+[2025-07-09 21:16:10] ⏳ Whisper.transcribe() started.
+[2025-07-09 21:16:11] ✅ Whisper.transcribe() completed.
+[2025-07-09 21:16:11] Transcribed: This is a test.
+[2025-07-09 21:16:11] Pasted: This is a test.
+[2025-07-09 21:16:14] Started recording...
+[2025-07-09 21:16:20] Stopped recording. Collected 101 audio chunks.
+[2025-07-09 21:16:20] Transcribing...
+[2025-07-09 21:16:20] ⏳ Whisper.transcribe() started.
+[2025-07-09 21:16:21] ✅ Whisper.transcribe() completed.
+[2025-07-09 21:16:21] Transcribed: I draw my sword, I walk over to the tavern and I stab it into the bartender.
+[2025-07-09 21:16:21] Pasted: I draw my sword, I walk over to the tavern and I stab it into the bartender.
+[2025-07-09 21:16:28] 🛑 ESC key pressed — exiting.
+[2025-07-09 21:17:24] 🟢 Whisper typing (Caps Lock hold) started. Hold Caps Lock to speak, release to transcribe and paste. Press ESC to quit.
+[2025-07-09 21:22:16] 🟢 Whisper typing (Caps Lock hold) started. Hold Caps Lock to speak, release to transcribe and paste. Press ESC to quit.
+[2025-07-09 21:24:12] Started recording...
+[2025-07-09 21:24:24] Stopped recording. Collected 166 audio chunks.
+[2025-07-09 21:24:24] Transcribing...
+[2025-07-09 21:24:24] ⏳ Whisper.transcribe() started.
+[2025-07-09 21:24:24] Stopped recording. Collected 166 audio chunks.
+[2025-07-09 21:24:24] Transcribing...
+[2025-07-09 21:24:24] ⏳ Whisper.transcribe() started.
+[2025-07-09 21:24:26] ✅ Whisper.transcribe() completed.
+[2025-07-09 21:24:26] Transcribed: Nality traits, I never have a plan, but I'm great at making things up as I go along. Also, the best way to get me to do something is to tell me I can't do it.
+[2025-07-09 21:24:26] ✅ Whisper.transcribe() completed.
+[2025-07-09 21:24:26] Transcribed: Nality traits, I never have a plan, but I'm great at making things up as I go along. Also, the best way to get me to do something is to tell me I can't do it.
+[2025-07-09 21:24:27] Pasted: Nality traits, I never have a plan, but I'm great at making things up as I go along. Also, the best way to get me to do something is to tell me I can't do it.
+[2025-07-09 21:24:27] Pasted: Nality traits, I never have a plan, but I'm great at making things up as I go along. Also, the best way to get me to do something is to tell me I can't do it.
+[2025-07-09 21:24:31] Started recording...
+[2025-07-09 21:25:09] Stopped recording. Collected 578 audio chunks.
+[2025-07-09 21:25:09] Transcribing...
+[2025-07-09 21:25:09] ⏳ Whisper.transcribe() started.
+[2025-07-09 21:25:09] Stopped recording. Collected 578 audio chunks.
+[2025-07-09 21:25:09] Transcribing...
+[2025-07-09 21:25:09] ⏳ Whisper.transcribe() started.
+[2025-07-09 21:25:11] ✅ Whisper.transcribe() completed.
+[2025-07-09 21:25:11] ✅ Whisper.transcribe() completed.
+[2025-07-09 21:25:11] Transcribed: My deals is people I'm loyal to my friends not to any ideals Everyone else can take a trip on the river stikes for all I care my bonds Is my aunt she has a farm in Fandallin I always give her some of my ill gotten gains Flaws my aunt must never know the deeds I did as a member of the red bands I Have thieves can't Lucky brave Half-fling nimbleness Naturally stealthy criminal contact.
+[2025-07-09 21:25:11] Transcribed: My deals is people I'm loyal to my friends not to any ideals Everyone else can take a trip on the river stikes for all I care my bonds Is my aunt she has a farm in Fandallin I always give her some of my ill gotten gains Flaws my aunt must never know the deeds I did as a member of the red bands I Have thieves can't Lucky brave Half-fling nimbleness Naturally stealthy criminal contact.
+[2025-07-09 21:25:12] Pasted: My deals is people I'm loyal to my friends not to any ideals Everyone else can take a trip on the river stikes for all I care my bonds Is my aunt she has a farm in Fandallin I always give her some of my ill gotten gains Flaws my aunt must never know the deeds I did as a member of the red bands I Have thieves can't Lucky brave Half-fling nimbleness Naturally stealthy criminal contact.
+[2025-07-09 21:25:17] 🛑 ESC key pressed — exiting.
+[2025-07-09 21:25:53] 🟢 Whisper typing (Caps Lock hold) started. Hold Caps Lock to speak, release to transcribe and paste. Press ESC to quit.
+[2025-07-09 21:25:54] Started recording...
+[2025-07-09 21:25:56] Stopped recording. Collected 29 audio chunks.
+[2025-07-09 21:25:56] Transcribing...
+[2025-07-09 21:25:56] ⏳ Whisper.transcribe() started.
+[2025-07-09 21:25:57] ✅ Whisper.transcribe() completed.
+[2025-07-09 21:25:57] Transcribed: Again.
+[2025-07-09 21:25:57] Pasted: Again.
+[2025-07-09 21:26:01] Started recording...
+[2025-07-09 21:26:03] Stopped recording. Collected 35 audio chunks.
+[2025-07-09 21:26:03] Transcribing...
+[2025-07-09 21:26:03] ⏳ Whisper.transcribe() started.
+[2025-07-09 21:26:04] ✅ Whisper.transcribe() completed.
+[2025-07-09 21:26:04] Transcribed: Begin.
+[2025-07-09 21:26:04] Pasted: Begin.
+[2025-07-09 21:29:04] 🟢 Whisper typing (Caps Lock hold) started. Hold Caps Lock to speak, release to transcribe and paste. Press ESC to quit.
+[2025-07-09 21:30:18] Started recording...
+[2025-07-09 21:30:22] Stopped recording. Collected 43 audio chunks.
+[2025-07-09 21:30:22] Transcribing...
+[2025-07-09 21:30:22] ⏳ Whisper.transcribe() started.
+[2025-07-09 21:30:22] Stopped recording. Collected 43 audio chunks.
+[2025-07-09 21:30:22] Transcribing...
+[2025-07-09 21:30:22] ⏳ Whisper.transcribe() started.
+[2025-07-09 21:30:22] ✅ Whisper.transcribe() completed.
+[2025-07-09 21:30:22] Transcribed: Or anybody can talk to about the forgotten signal.
+[2025-07-09 21:30:23] Pasted: Or anybody can talk to about the forgotten signal.
+[2025-07-09 21:30:23] ✅ Whisper.transcribe() completed.
+[2025-07-09 21:30:23] Transcribed: Or anybody can talk to about the forgotten signal.
+[2025-07-09 21:30:24] Pasted: Or anybody can talk to about the forgotten signal.
+[2025-07-09 21:30:31] Started recording...
+[2025-07-09 21:30:31] Started recording...
+[2025-07-09 21:30:35] Stopped recording. Collected 57 audio chunks.
+[2025-07-09 21:30:35] Transcribing...
+[2025-07-09 21:30:35] ⏳ Whisper.transcribe() started.
+[2025-07-09 21:30:35] Stopped recording. Collected 57 audio chunks.
+[2025-07-09 21:30:35] Transcribing...
+[2025-07-09 21:30:35] ⏳ Whisper.transcribe() started.
+[2025-07-09 21:30:36] ✅ Whisper.transcribe() completed.
+[2025-07-09 21:30:36] Transcribed: Is there anybody I can talk to about the forgotten signal?
+[2025-07-09 21:30:36] ✅ Whisper.transcribe() completed.
+[2025-07-09 21:30:36] Transcribed: Is there anybody I can talk to about the forgotten signal?
+[2025-07-09 21:30:37] Pasted: Is there anybody I can talk to about the forgotten signal?
+[2025-07-09 21:30:37] Pasted: Is there anybody I can talk to about the forgotten signal?
+[2025-07-09 21:30:46] Started recording...
+[2025-07-09 21:30:46] Started recording...
+[2025-07-09 21:30:50] Stopped recording. Collected 48 audio chunks.
+[2025-07-09 21:30:50] Transcribing...
+[2025-07-09 21:30:50] ⏳ Whisper.transcribe() started.
+[2025-07-09 21:30:51] Stopped recording. Collected 48 audio chunks.
+[2025-07-09 21:30:51] Transcribing...
+[2025-07-09 21:30:51] ⏳ Whisper.transcribe() started.
+[2025-07-09 21:30:51] ✅ Whisper.transcribe() completed.
+[2025-07-09 21:30:51] Transcribed: Is there anybody I can talk to about the forgotten signal?
+[2025-07-09 21:30:51] ✅ Whisper.transcribe() completed.
+[2025-07-09 21:30:51] Transcribed: Is there anybody I can talk to about the forgotten signal?
+[2025-07-09 21:30:52] Pasted: Is there anybody I can talk to about the forgotten signal?
+[2025-07-09 21:30:52] Pasted: Is there anybody I can talk to about the forgotten signal?
+[2025-07-09 21:34:44] Started recording...
+[2025-07-09 21:34:44] Started recording...
+[2025-07-09 21:34:45] Stopped recording. Collected 0 audio chunks.
+[2025-07-09 21:34:45] ⚠️ Main loop error: No audio recorded.
+[2025-07-09 21:34:45] Stopped recording. Collected 0 audio chunks.
+[2025-07-09 21:34:45] ⚠️ Main loop error: No audio recorded.
+[2025-07-09 22:00:51] 🛑 ESC key pressed — exiting.
+[2025-07-09 22:00:51] 🛑 ESC key pressed — exiting.
+[2025-07-09 22:00:55] 🟢 Whisper typing (Caps Lock hold) started. Hold Caps Lock to speak, release to transcribe and paste. Press ESC to quit.
+[2025-07-09 22:01:10] 🟢 Whisper typing (Caps Lock hold) started. Hold Caps Lock to speak, release to transcribe and paste. Press ESC to quit.
+[2025-07-09 22:03:37] 🟢 Whisper typing (Caps Lock hold) started. Hold Caps Lock to speak, release to transcribe and paste. Press ESC to quit.
+[2025-07-09 22:05:30] Started recording...
+[2025-07-09 22:05:30] Started recording...
+[2025-07-09 22:05:30] Started recording...
+[2025-07-09 22:05:43] Stopped recording. Collected 185 audio chunks.
+[2025-07-09 22:05:43] Transcribing...
+[2025-07-09 22:05:43] ⏳ Whisper.transcribe() started.
+[2025-07-09 22:05:43] Stopped recording. Collected 185 audio chunks.
+[2025-07-09 22:05:43] Transcribing...
+[2025-07-09 22:05:43] ⏳ Whisper.transcribe() started.
+[2025-07-09 22:05:46] ✅ Whisper.transcribe() completed.
+[2025-07-09 22:05:46] Transcribed: Baxter looks around for a shop stand to try to find somebody that might know when the spices will arrive.
+[2025-07-09 22:05:46] ✅ Whisper.transcribe() completed.
+[2025-07-09 22:05:46] Transcribed: Baxter looks around for a shop stand to try to find somebody that might know when the spices will arrive.
+[2025-07-09 22:05:46] ✅ Whisper.transcribe() completed.
+[2025-07-09 22:05:46] Transcribed: Baxter looks around for a shop stand to try to find somebody that might know when the spices will arrive.
+[2025-07-09 22:05:46] Pasted: Baxter looks around for a shop stand to try to find somebody that might know when the spices will arrive.
+[2025-07-09 22:05:46] Pasted: Baxter looks around for a shop stand to try to find somebody that might know when the spices will arrive.
+[2025-07-09 22:05:46] Pasted: Baxter looks around for a shop stand to try to find somebody that might know when the spices will arrive.
+[2025-07-09 22:06:30] Started recording...
+[2025-07-09 22:06:30] Started recording...
+[2025-07-09 22:06:30] Started recording...
+[2025-07-09 22:06:50] Stopped recording. Collected 306 audio chunks.
+[2025-07-09 22:06:50] Stopped recording. Collected 306 audio chunks.
+[2025-07-09 22:06:50] Transcribing...
+[2025-07-09 22:06:50] ⏳ Whisper.transcribe() started.
+[2025-07-09 22:06:50] ⏳ Whisper.transcribe() started.
+[2025-07-09 22:06:50] Stopped recording. Collected 306 audio chunks.
+[2025-07-09 22:06:50] Transcribing...
+[2025-07-09 22:06:50] ⏳ Whisper.transcribe() started.
+[2025-07-09 22:06:52] ✅ Whisper.transcribe() completed.
+[2025-07-09 22:06:52] Transcribed: Backster approaches the woman, with the demeanor as if he's a business man in a hurry, asking if she knows when shipments usually arrive on this dock.
+[2025-07-09 22:06:52] ✅ Whisper.transcribe() completed.
+[2025-07-09 22:06:52] Transcribed: Backster approaches the woman, with the demeanor as if he's a business man in a hurry, asking if she knows when shipments usually arrive on this dock.
+[2025-07-09 22:06:52] ✅ Whisper.transcribe() completed.
+[2025-07-09 22:06:52] Transcribed: Backster approaches the woman, with the demeanor as if he's a business man in a hurry, asking if she knows when shipments usually arrive on this dock.
+[2025-07-09 22:06:52] Pasted: Backster approaches the woman, with the demeanor as if he's a business man in a hurry, asking if she knows when shipments usually arrive on this dock.
+[2025-07-09 22:06:53] Pasted: Backster approaches the woman, with the demeanor as if he's a business man in a hurry, asking if she knows when shipments usually arrive on this dock.
+[2025-07-09 22:06:53] Pasted: Backster approaches the woman, with the demeanor as if he's a business man in a hurry, asking if she knows when shipments usually arrive on this dock.
+[2025-07-09 22:13:22] 🟢 Whisper typing (Caps Lock hold) started. Hold Caps Lock to speak, release to transcribe and paste. Press ESC to quit.
+[2025-07-09 22:13:53] Started recording...
+[2025-07-09 22:13:53] Started recording...
+[2025-07-09 22:13:53] Started recording...
+[2025-07-09 22:13:56] Stopped recording. Collected 32 audio chunks.
+[2025-07-09 22:13:56] Stopped recording. Collected 32 audio chunks.
+[2025-07-09 22:13:56] Stopped recording. Collected 32 audio chunks.
+[2025-07-09 22:13:56] Transcribing...
+[2025-07-09 22:13:56] Transcribing...
+[2025-07-09 22:13:56] Transcribing...
+[2025-07-09 22:13:56] ⏳ Whisper.transcribe() started.
+[2025-07-09 22:13:56] ⏳ Whisper.transcribe() started.
+[2025-07-09 22:13:56] ⏳ Whisper.transcribe() started.
+[2025-07-09 22:13:56] Stopped recording. Collected 32 audio chunks.
+[2025-07-09 22:13:56] Transcribing...
+[2025-07-09 22:13:56] ⏳ Whisper.transcribe() started.
+[2025-07-09 22:13:57] ✅ Whisper.transcribe() completed.
+[2025-07-09 22:13:57] Transcribed: Begin the story.
+[2025-07-09 22:13:57] ✅ Whisper.transcribe() completed.
+[2025-07-09 22:13:57] Transcribed: Begin the story.
+[2025-07-09 22:13:57] ✅ Whisper.transcribe() completed.
+[2025-07-09 22:13:57] Transcribed: Begin the story.
+[2025-07-09 22:13:57] Pasted: Begin the story.
+[2025-07-09 22:13:57] Pasted: Begin the story.
+[2025-07-09 22:13:58] ✅ Whisper.transcribe() completed.
+[2025-07-09 22:13:58] Transcribed: Begin the story.
+[2025-07-09 22:13:58] Pasted: Begin the story.
+[2025-07-09 22:14:05] 🛑 ESC key pressed — exiting.
+[2025-07-09 22:14:05] 🛑 ESC key pressed — exiting.
+[2025-07-09 22:17:20] 🟢 Whisper typing (Caps Lock hold) started. Hold Caps Lock to speak, release to transcribe and paste. Press ESC to quit.
+[2025-07-09 22:17:22] Started recording...
+[2025-07-09 22:17:24] Stopped recording. Collected 33 audio chunks.
+[2025-07-09 22:17:24] Transcribing...
+[2025-07-09 22:17:24] ⏳ Whisper.transcribe() started.
+[2025-07-09 22:17:26] ✅ Whisper.transcribe() completed.
+[2025-07-09 22:17:26] Transcribed: Begin the story.
+[2025-07-09 22:17:27] Pasted: Begin the story.
+[2025-07-09 22:21:00] Started recording...
+[2025-07-09 22:21:10] Stopped recording. Collected 163 audio chunks.
+[2025-07-09 22:21:10] Transcribing...
+[2025-07-09 22:21:10] ⏳ Whisper.transcribe() started.
+[2025-07-09 22:21:11] ✅ Whisper.transcribe() completed.
+[2025-07-09 22:21:11] Transcribed: I try to see if anybody is around and if the coast is clear I go to take that shiny thing.
+[2025-07-09 22:21:12] Pasted: I try to see if anybody is around and if the coast is clear I go to take that shiny thing.
+[2025-07-09 22:21:36] Started recording...
+[2025-07-09 22:21:38] Stopped recording. Collected 40 audio chunks.
+[2025-07-09 22:21:38] Transcribing...
+[2025-07-09 22:21:38] ⏳ Whisper.transcribe() started.
+[2025-07-09 22:21:39] ✅ Whisper.transcribe() completed.
+[2025-07-09 22:21:39] Transcribed: I snatched it up.
+[2025-07-09 22:21:39] Pasted: I snatched it up.
+[2025-07-09 22:23:01] Started recording...
+[2025-07-09 22:23:01] Stopped recording. Collected 0 audio chunks.
+[2025-07-09 22:23:01] ⚠️ Main loop error: No audio recorded.
+[2025-07-09 22:23:15] 🛑 ESC key pressed — exiting.
+[2025-07-09 22:30:16] 🟢 Whisper typing (Caps Lock hold) started. Hold Caps Lock to speak, release to transcribe and paste. Press ESC to quit.
+[2025-07-09 22:32:12] Started recording...
+[2025-07-09 22:32:17] Stopped recording. Collected 69 audio chunks.
+[2025-07-09 22:32:17] Transcribing...
+[2025-07-09 22:32:17] ⏳ Whisper.transcribe() started.
+[2025-07-09 22:32:19] ✅ Whisper.transcribe() completed.
+[2025-07-09 22:32:19] Transcribed: Can Baxter see if there's anything useful around him in the forest?
+[2025-07-09 22:32:19] Pasted: Can Baxter see if there's anything useful around him in the forest?
+[2025-07-09 22:33:12] Started recording...
+[2025-07-09 22:33:15] Stopped recording. Collected 35 audio chunks.
+[2025-07-09 22:33:15] Transcribing...
+[2025-07-09 22:33:15] ⏳ Whisper.transcribe() started.
+[2025-07-09 22:33:15] ✅ Whisper.transcribe() completed.
+[2025-07-09 22:33:15] Transcribed: Because that's totally possible.
+[2025-07-09 22:33:15] Pasted: Because that's totally possible.
+[2025-07-09 22:33:31] Started recording...
+[2025-07-09 22:33:34] Stopped recording. Collected 56 audio chunks.
+[2025-07-09 22:33:34] Transcribing...
+[2025-07-09 22:33:34] ⏳ Whisper.transcribe() started.
+[2025-07-09 22:33:35] ✅ Whisper.transcribe() completed.
+[2025-07-09 22:33:35] Transcribed: Backster rolled a 40 to see what it was around him.
+[2025-07-09 22:33:35] Pasted: Backster rolled a 40 to see what it was around him.
+[2025-07-09 22:34:21] Started recording...
+[2025-07-09 22:34:27] Stopped recording. Collected 90 audio chunks.
+[2025-07-09 22:34:27] Transcribing...
+[2025-07-09 22:34:27] ⏳ Whisper.transcribe() started.
+[2025-07-09 22:34:28] ✅ Whisper.transcribe() completed.
+[2025-07-09 22:34:28] Transcribed: I pull out my shortbow and I attempt to fire at that odd and anonymous figure.
+[2025-07-09 22:34:29] Pasted: I pull out my shortbow and I attempt to fire at that odd and anonymous figure.
+[2025-07-09 22:35:20] Started recording...
+[2025-07-09 22:35:23] Stopped recording. Collected 44 audio chunks.
+[2025-07-09 22:35:23] Transcribing...
+[2025-07-09 22:35:23] ⏳ Whisper.transcribe() started.
+[2025-07-09 22:35:23] ✅ Whisper.transcribe() completed.
+[2025-07-09 22:35:23] Transcribed: I rolled 19 plus 5.
+[2025-07-09 22:35:24] Pasted: I rolled 19 plus 5.
+[2025-07-09 22:35:37] Started recording...
+[2025-07-09 22:35:37] Stopped recording. Collected 0 audio chunks.
+[2025-07-09 22:35:37] ⚠️ Main loop error: No audio recorded.
+[2025-07-09 22:37:39] Started recording...
+[2025-07-09 22:37:43] Stopped recording. Collected 71 audio chunks.
+[2025-07-09 22:37:43] Transcribing...
+[2025-07-09 22:37:43] ⏳ Whisper.transcribe() started.
+[2025-07-09 22:37:44] ✅ Whisper.transcribe() completed.
+[2025-07-09 22:37:44] Transcribed: Wasn't Baxter just fighting a shadowy figure? Yeah.
+[2025-07-09 22:37:44] Pasted: Wasn't Baxter just fighting a shadowy figure? Yeah.
+[2025-07-09 22:38:13] Started recording...
+[2025-07-09 22:38:13] Stopped recording. Collected 0 audio chunks.
+[2025-07-09 22:38:13] ⚠️ Main loop error: No audio recorded.
+[2025-07-09 22:39:48] Started recording...
+[2025-07-09 22:39:55] Stopped recording. Collected 103 audio chunks.
+[2025-07-09 22:39:55] Transcribing...
+[2025-07-09 22:39:55] ⏳ Whisper.transcribe() started.
+[2025-07-09 22:39:56] ✅ Whisper.transcribe() completed.
+[2025-07-09 22:39:56] Transcribed: Backstour runs around the town looking for equipment to build a nuclear bomb.
+[2025-07-09 22:39:56] Pasted: Backstour runs around the town looking for equipment to build a nuclear bomb.
+[2025-07-09 22:40:32] Started recording...
+[2025-07-09 22:40:35] Stopped recording. Collected 40 audio chunks.
+[2025-07-09 22:40:35] Transcribing...
+[2025-07-09 22:40:35] ⏳ Whisper.transcribe() started.
+[2025-07-09 22:40:35] ✅ Whisper.transcribe() completed.
+[2025-07-09 22:40:35] Transcribed: I set off the nuclear bomb.
+[2025-07-09 22:40:36] Pasted: I set off the nuclear bomb.
+[2025-07-09 22:41:48] Started recording...
+[2025-07-09 22:41:51] Stopped recording. Collected 45 audio chunks.
+[2025-07-09 22:41:51] Transcribing...
+[2025-07-09 22:41:51] ⏳ Whisper.transcribe() started.
+[2025-07-09 22:41:51] ✅ Whisper.transcribe() completed.
+[2025-07-09 22:41:51] Transcribed: I rolled a NAT 20 plus 6.
+[2025-07-09 22:41:52] Pasted: I rolled a NAT 20 plus 6.
+[2025-07-09 22:43:36] Started recording...
+[2025-07-09 22:43:36] Stopped recording. Collected 0 audio chunks.
+[2025-07-09 22:43:36] ⚠️ Main loop error: No audio recorded.
+[2025-07-09 22:43:39] 🟢 Whisper typing (Caps Lock hold) started. Hold Caps Lock to speak, release to transcribe and paste. Press ESC to quit.
+[2025-07-09 22:44:58] Started recording...
+[2025-07-09 22:45:02] Stopped recording. Collected 62 audio chunks.
+[2025-07-09 22:45:02] Transcribing...
+[2025-07-09 22:45:02] ⏳ Whisper.transcribe() started.
+[2025-07-09 22:45:02] Stopped recording. Collected 63 audio chunks.
+[2025-07-09 22:45:02] Transcribing...
+[2025-07-09 22:45:02] ⏳ Whisper.transcribe() started.
+[2025-07-09 22:45:03] ✅ Whisper.transcribe() completed.
+[2025-07-09 22:45:03] Transcribed: I take my crossbow out and I fire it at the dragon.
+[2025-07-09 22:45:03] Pasted: I take my crossbow out and I fire it at the dragon.
+[2025-07-09 22:45:05] ✅ Whisper.transcribe() completed.
+[2025-07-09 22:45:05] Transcribed: And MFA.
+[2025-07-09 22:45:05] Pasted: And MFA.
+[2025-07-09 22:45:50] Started recording...
+[2025-07-09 22:45:50] Stopped recording. Collected 0 audio chunks.
+[2025-07-09 22:45:50] ⚠️ Main loop error: No audio recorded.
+[2025-07-09 22:45:50] Stopped recording. Collected 0 audio chunks.
+[2025-07-09 22:45:50] ⚠️ Main loop error: No audio recorded.
+[2025-07-10 12:07:25] 🛑 ESC key pressed — exiting.
+[2025-07-10 12:07:25] 🛑 ESC key pressed — exiting.
+[2025-07-10 12:07:55] 🟢 Whisper typing (Caps Lock hold) started. Hold Caps Lock to speak, release to transcribe and paste. Press ESC to quit.
+[2025-07-10 12:08:12] Started recording...
+[2025-07-10 12:08:19] Stopped recording. Collected 99 audio chunks.
+[2025-07-10 12:08:19] Transcribing...
+[2025-07-10 12:08:19] ⏳ Whisper.transcribe() started.
+[2025-07-10 12:08:23] ✅ Whisper.transcribe() completed.
+[2025-07-10 12:08:23] Transcribed: I fly up 100 feet to get a better look.
+[2025-07-10 12:08:23] Pasted: I fly up 100 feet to get a better look.
+[2025-07-10 12:08:35] Started recording...
+[2025-07-10 12:08:41] Stopped recording. Collected 91 audio chunks.
+[2025-07-10 12:08:41] Transcribing...
+[2025-07-10 12:08:41] ⏳ Whisper.transcribe() started.
+[2025-07-10 12:08:42] ✅ Whisper.transcribe() completed.
+[2025-07-10 12:08:42] Transcribed: I pull out rocket boots question mark.
+[2025-07-10 12:08:42] Pasted: I pull out rocket boots question mark.
+[2025-07-10 12:09:20] Started recording...
+[2025-07-10 12:09:29] Stopped recording. Collected 128 audio chunks.
+[2025-07-10 12:09:29] Transcribing...
+[2025-07-10 12:09:29] ⏳ Whisper.transcribe() started.
+[2025-07-10 12:09:30] ✅ Whisper.transcribe() completed.
+[2025-07-10 12:09:30] Transcribed: I realize I don't have rocket boots because they don't exist and I go and suspect that suspicious looking figure.
+[2025-07-10 12:09:30] Pasted: I realize I don't have rocket boots because they don't exist and I go and suspect that suspicious looking figure.
+[2025-07-10 12:09:55] Started recording...
+[2025-07-10 12:09:58] Stopped recording. Collected 41 audio chunks.
+[2025-07-10 12:09:58] Transcribing...
+[2025-07-10 12:09:58] ⏳ Whisper.transcribe() started.
+[2025-07-10 12:09:59] ✅ Whisper.transcribe() completed.
+[2025-07-10 12:09:59] Transcribed: I try to pick pocket them.
+[2025-07-10 12:09:59] Pasted: I try to pick pocket them.
+[2025-07-10 12:10:11] Started recording...
+[2025-07-10 12:10:12] Stopped recording. Collected 17 audio chunks.
+[2025-07-10 12:10:12] Transcribing...
+[2025-07-10 12:10:12] ⏳ Whisper.transcribe() started.
+[2025-07-10 12:10:12] ✅ Whisper.transcribe() completed.
+[2025-07-10 12:10:12] ⚠️ No text transcribed.
+[2025-07-10 12:10:38] Started recording...
+[2025-07-10 12:10:38] Stopped recording. Collected 0 audio chunks.
+[2025-07-10 12:10:38] ⚠️ Main loop error: No audio recorded.
+[2025-07-10 12:12:31] 🛑 ESC key pressed — exiting.
