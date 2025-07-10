@@ -1,0 +1,41 @@
+hi 🧠 Campaign JSON Converter Prompt:
+
+I will upload a .txt file that contains the full text of a Dungeons & Dragons 5e campaign module.
+
+Your job is to clean and convert this file into a structured set of valid .json files, optimized for SillyTavern or GPT-4o.
+
+You will:
+
+1. Clean the text aggressively:
+   - Remove all standalone "N", "n", "nn", "nnn" that are not part of real words
+   - Flatten line-wrapped text (convert single \n to space)
+   - Keep paragraph breaks (double \n)
+   - Normalize spacing and encoding artifacts
+
+2. Split the text into long, natural **Parts**:
+   - Use your own logic based on story flow
+   - Each Part should be 5000–8000 characters minimum (no short sections)
+   - Avoid blindly splitting on “Chapter” or “Part” labels
+
+3. Output one .json file per part:
+   - Each should look like this:
+     
+json
+     {
+       "part_number": 1,
+       "content": "Cleaned story text here..."
+     }
+
+   - Name each file part_01.json, part_02.json, etc.
+
+4. Create a milestones.json file with this structure:
+   
+json
+   {
+     "milestones": [
+       "Level 2 → After clearing the Cragmaw Hideout.",
+       "Level 3 → After defeating the Redbrands in Phandalin.",
+       "Level 4 → After completing 2+ side quests (e.g., Thundertree, Wyvern Tor).",
+       "Level 5 → After finishing Wave Echo Cave and defeating the Black Spider."
+     ]
+   }

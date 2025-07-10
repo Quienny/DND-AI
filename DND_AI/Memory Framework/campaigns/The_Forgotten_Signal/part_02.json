@@ -1,0 +1,13 @@
+{
+  "title": "Atrium Anomaly",
+  "summary": "The glass atrium shows a floating arcane sigil pulsing outside.",
+  "npcs": [
+    {
+      "name": "Echo",
+      "description": "An AI fragment that guides and deceives."
+    }
+  ],
+  "lore": [],
+  "combat": "",
+  "notes": "This part should evoke curiosity and paranoia."
+}

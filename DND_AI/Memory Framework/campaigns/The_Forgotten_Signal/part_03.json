@@ -1,0 +1,13 @@
+{
+  "title": "Lost Logs",
+  "summary": "Ancient logs detail failed time experiments.",
+  "npcs": [],
+  "lore": [
+    {
+      "title": "Timeless Research",
+      "content": "This lab bent time until time bent back."
+    }
+  ],
+  "combat": "",
+  "notes": "This part should evoke curiosity and paranoia."
+}

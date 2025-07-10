@@ -1,0 +1,38 @@
+[
+  {
+    "id": "wake_up",
+    "title": "Echoes in the Dark",
+    "summary": "The party awakens in containment pods.",
+    "part": "01"
+  },
+  {
+    "id": "atrium",
+    "title": "Atrium Anomaly",
+    "summary": "The glass atrium shows a floating arcane sigil pulsing outside.",
+    "part": "02"
+  },
+  {
+    "id": "research_logs",
+    "title": "Lost Logs",
+    "summary": "Ancient logs detail failed time experiments.",
+    "part": "03"
+  },
+  {
+    "id": "generator_room",
+    "title": "Overcharged Generator",
+    "summary": "A misaligned planar generator sparks wild magic.",
+    "part": "04"
+  },
+  {
+    "id": "signal_origin",
+    "title": "Source of the Signal",
+    "summary": "They discover a dying entity bound in runes below the lab.",
+    "part": "05"
+  },
+  {
+    "id": "escape",
+    "title": "Escape Through the Fold",
+    "summary": "A risky portal opens a brief exit window.",
+    "part": "06"
+  }
+]
