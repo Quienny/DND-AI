@@ -1,0 +1,69 @@
+[
+  {
+    "name": "Attack",
+    "description": "You can make a melee or ranged attack with a weapon you're holding. You can also make an unarmed strike.",
+    "rules": [
+      "Some features allow multiple attacks.",
+      "Improvised weapons may require a ruling from the DM."
+    ]
+  },
+  {
+    "name": "Cast a Spell",
+    "description": "You can cast a spell that has a casting time of 1 action.",
+    "rules": [
+      "You must have the spell prepared or known.",
+      "You must provide required components (V, S, M)."
+    ]
+  },
+  {
+    "name": "Dash",
+    "description": "You gain extra movement equal to your speed for the current turn.",
+    "rules": []
+  },
+  {
+    "name": "Disengage",
+    "description": "Your movement doesn't provoke opportunity attacks for the rest of the turn.",
+    "rules": []
+  },
+  {
+    "name": "Dodge",
+    "description": "Until the start of your next turn, any attack roll made against you has disadvantage if you can see the attacker.",
+    "rules": [
+      "You also make Dexterity saving throws with advantage.",
+      "You lose the benefit if you are incapacitated or your speed drops to 0."
+    ]
+  },
+  {
+    "name": "Help",
+    "description": "You assist an ally, granting them advantage on the next ability check or attack roll against a creature within 5 feet of you.",
+    "rules": []
+  },
+  {
+    "name": "Hide",
+    "description": "You make a Dexterity (Stealth) check to try to hide from enemies.",
+    "rules": [
+      "You can\u2019t hide from a creature that can see you clearly.",
+      "Cover, invisibility, or distraction helps."
+    ]
+  },
+  {
+    "name": "Ready",
+    "description": "You prepare an action in response to a trigger.",
+    "rules": [
+      "You must specify the trigger and the action you will take.",
+      "You can use your reaction to perform the readied action."
+    ]
+  },
+  {
+    "name": "Search",
+    "description": "You devote your attention to finding something. The DM might ask you to make a Wisdom (Perception) or Intelligence (Investigation) check.",
+    "rules": []
+  },
+  {
+    "name": "Use an Object",
+    "description": "You interact with a second object or use a feature of an object that requires an action.",
+    "rules": [
+      "Includes potions, levers, tools, or activating magical items."
+    ]
+  }
+]

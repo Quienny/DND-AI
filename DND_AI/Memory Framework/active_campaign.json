@@ -1,0 +1,17 @@
+{
+  "name": "The_Forgotten_Signal",
+  "safe_name": "The_Forgotten_Signal",
+  "paths": {
+    "characters": "C:\\Users\\Quint\\Desktop\\DND_AI\\Memory Framework\\characters\\The_Forgotten_Signal\\characters.json",
+    "npcs": "C:\\Users\\Quint\\Desktop\\DND_AI\\Memory Framework\\npcs\\The_Forgotten_Signal\\npcs.json",
+    "items": "C:\\Users\\Quint\\Desktop\\DND_AI\\Memory Framework\\items\\The_Forgotten_Signal\\items.json",
+    "towns": "C:\\Users\\Quint\\Desktop\\DND_AI\\Memory Framework\\towns\\The_Forgotten_Signal\\towns.json",
+    "factions": "C:\\Users\\Quint\\Desktop\\DND_AI\\Memory Framework\\factions\\The_Forgotten_Signal\\factions.json",
+    "lorebooks": "C:\\Users\\Quint\\Desktop\\DND_AI\\Memory Framework\\lorebooks\\The_Forgotten_Signal\\lorebooks.json",
+    "session_tracker": "C:\\Users\\Quint\\Desktop\\DND_AI\\Memory Framework\\session_tracker\\The_Forgotten_Signal\\session_tracker.json",
+    "sessions": "C:\\Users\\Quint\\Desktop\\DND_AI\\Memory Framework\\sessions\\The_Forgotten_Signal\\sessions.json",
+    "campaign_dir": "C:\\Users\\Quint\\Desktop\\DND_AI\\Memory Framework\\campaigns\\The_Forgotten_Signal\\extracted",
+    "milestones": "C:\\Users\\Quint\\Desktop\\DND_AI\\Memory Framework\\campaigns\\The_Forgotten_Signal\\extracted\\milestones.json",
+    "rules": "C:\\Users\\Quint\\Desktop\\DND_AI\\Memory Framework\\rules"
+  }
+}

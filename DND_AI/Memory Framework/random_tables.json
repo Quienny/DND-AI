@@ -1,0 +1,15 @@
+{
+  "weather": [
+    "Clear",
+    "Cloudy",
+    "Rain",
+    "Storm",
+    "Fog"
+  ],
+  "road_encounter": [
+    "Bandits",
+    "Wolves",
+    "Traveling Merchant",
+    "Nothing happens"
+  ]
+}
