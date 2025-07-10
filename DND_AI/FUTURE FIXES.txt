@@ -1,0 +1,3 @@
+DDURING Ability checks tell the player what kind of dice to use. set a script after each response it will update its short term memory. and update its long term memory+campaign jsons every 5 responses
+Set parameters for situational memory continunity. and set a reference folder for combat expectations
+challenge the players for unreleastic expectations or if they try to interact with factors or resources that are not around them.

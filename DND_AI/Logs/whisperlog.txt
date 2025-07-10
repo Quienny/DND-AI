@@ -1,0 +1,19 @@
+[2025-07-09 20:19:29] 🟢 Whisper logging session started.
+[2025-07-09 20:19:29] 🧠 Whisper raw: {'text': ' 1,2,3,Pest', 'segments': [{'id': 0, 'seek': 0, 'start': 0.0, 'end': 2.0, 'text': ' 1,2,3,Pest', 'tokens': [50364, 502, 11, 17, 11, 18, 11, 47, 377, 50464], 'temperature': 0.0, 'avg_logprob': -0.6160239306363192, 'compression_ratio': 0.5555555555555556, 'no_speech_prob': 0.13555890321731567}], 'language': 'en'}
+[2025-07-09 20:19:29] 🗣️ Transcript: 1,2,3,Pest
+[2025-07-09 20:20:17] 🧠 Whisper raw: {'text': '', 'segments': [], 'language': 'en'}
+[2025-07-09 20:20:17] ⚠️ Whisper returned empty transcript.
+[2025-07-09 20:20:18] 🧠 Whisper raw: {'text': '', 'segments': [], 'language': 'en'}
+[2025-07-09 20:20:18] ⚠️ Whisper returned empty transcript.
+[2025-07-09 20:25:50] 🟢 Whisper transcription session started.
+[2025-07-09 20:25:51] 🧠 Whisper raw: {'text': ' But campaign will be run right now.', 'segments': [{'id': 0, 'seek': 0, 'start': 0.0, 'end': 2.0, 'text': ' But campaign will be run right now.', 'tokens': [50364, 583, 5129, 486, 312, 1190, 558, 586, 13, 50464], 'temperature': 0.0, 'avg_logprob': -0.6511876366355203, 'compression_ratio': 0.813953488372093, 'no_speech_prob': 0.11096113920211792}], 'language': 'en'}
+[2025-07-09 20:25:51] 🗣️ Transcript: But campaign will be run right now.
+[2025-07-09 20:25:51] 🧠 Whisper raw: {'text': ' What campaign are you running right now?', 'segments': [{'id': 0, 'seek': 0, 'start': 0.0, 'end': 2.0, 'text': ' What campaign are you running right now?', 'tokens': [50364, 708, 5129, 366, 291, 2614, 558, 586, 30, 50464], 'temperature': 0.0, 'avg_logprob': -0.4008458310907537, 'compression_ratio': 0.8333333333333334, 'no_speech_prob': 0.05372690036892891}], 'language': 'en'}
+[2025-07-09 20:25:51] 🗣️ Transcript: What campaign are you running right now?
+[2025-07-09 20:35:05] 🟢 Whisper typing mode started.
+[2025-07-09 20:55:11] 🧠 Whisper raw: {'text': ' Visit Testolo', 'segments': [{'id': 0, 'seek': 0, 'start': 0.0, 'end': 2.0, 'text': ' Visit Testolo', 'tokens': [50364, 24548, 9279, 7902, 50464], 'temperature': 0.0, 'avg_logprob': -0.9126376310984293, 'compression_ratio': 0.6190476190476191, 'no_speech_prob': 0.11889735609292984}], 'language': 'en'}
+[2025-07-09 20:55:11] 🗣️ Transcript: Visit Testolo
+[2025-07-09 20:55:11] 🧠 Whisper raw: {'text': ' is a test hello', 'segments': [{'id': 0, 'seek': 0, 'start': 0.0, 'end': 2.0, 'text': ' is a test hello', 'tokens': [50364, 307, 257, 1500, 7751, 50464], 'temperature': 0.0, 'avg_logprob': -0.7358447483607701, 'compression_ratio': 0.6521739130434783, 'no_speech_prob': 0.06717415153980255}], 'language': 'en'}
+[2025-07-09 20:55:11] 🗣️ Transcript: is a test hello
+[2025-07-09 20:55:11] 🧠 Whisper raw: {'text': ' Is the test all?', 'segments': [{'id': 0, 'seek': 0, 'start': 0.0, 'end': 2.0, 'text': ' Is the test all?', 'tokens': [50364, 1119, 264, 1500, 439, 30, 50464], 'temperature': 0.0, 'avg_logprob': -0.9437928795814514, 'compression_ratio': 0.6666666666666666, 'no_speech_prob': 0.08030790835618973}], 'language': 'en'}
+[2025-07-09 20:55:11] 🗣️ Transcript: Is the test all?

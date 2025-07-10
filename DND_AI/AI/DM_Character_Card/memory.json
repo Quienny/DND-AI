@@ -1,0 +1,20 @@
+{
+  "campaign": "The_Forgotten_Signal",
+  "session": 3,
+  "current_location": "Ruined Observatory",
+  "party": ["Thomas Kemper", "Kaelin", "Drog"],
+  "active_goals": ["Uncover signal source", "Protect village"],
+  "npcs": {
+    "Kaelin": {
+      "role": "Guide",
+      "status": "Missing",
+      "notes": "Last seen entering old ruins."
+    }
+  },
+  "items": {
+    "signal_amplifier": {
+      "found": true,
+      "used": false
+    }
+  }
+}

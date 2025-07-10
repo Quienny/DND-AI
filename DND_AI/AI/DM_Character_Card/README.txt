@@ -1,0 +1,1 @@
+in config weights are from 1-5

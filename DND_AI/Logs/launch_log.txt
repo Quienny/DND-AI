@@ -1,0 +1,19 @@
+Launch started at Wed 07/09/2025 22:43:17.16 
+Created: C:\Users\Quint\Desktop\DND_AI\Memory Framework\characters\Lost_Mine_Of_Phandelver\characters.json
+Created: C:\Users\Quint\Desktop\DND_AI\Memory Framework\npcs\Lost_Mine_Of_Phandelver\npcs.json
+Created: C:\Users\Quint\Desktop\DND_AI\Memory Framework\items\Lost_Mine_Of_Phandelver\items.json
+Created: C:\Users\Quint\Desktop\DND_AI\Memory Framework\towns\Lost_Mine_Of_Phandelver\towns.json
+Created: C:\Users\Quint\Desktop\DND_AI\Memory Framework\factions\Lost_Mine_Of_Phandelver\factions.json
+Created: C:\Users\Quint\Desktop\DND_AI\Memory Framework\lorebooks\Lost_Mine_Of_Phandelver\lorebooks.json
+Created: C:\Users\Quint\Desktop\DND_AI\Memory Framework\session_tracker\Lost_Mine_Of_Phandelver\session_tracker.json
+Created: C:\Users\Quint\Desktop\DND_AI\Memory Framework\sessions\Lost_Mine_Of_Phandelver\sessions.json
+Created: C:\Users\Quint\Desktop\DND_AI\Memory Framework\summaries\Lost_Mine_Of_Phandelver\summaries.json
+Created memory.json with party: ['New Character', 'New Character']
+Traceback (most recent call last):
+  File "C:\Users\Quint\Desktop\DND_AI\Memory Framework\init_campaign_folders.py", line 87, in <module>
+    print(f"\u2705 Campaign '{campaign_name}' memory structure verified.")
+  File "C:\Users\Quint\AppData\Local\Programs\Python\Python310\lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2705' in position 0: character maps to <undefined>
+Launching auto_summarize_parts.py... 
+ active_campaign.json not found.
